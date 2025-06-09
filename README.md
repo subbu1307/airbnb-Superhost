@@ -9,3 +9,11 @@ _(MGMT 687: AI for Business Decisions)_
 - **Geospatial & Cluster Insights:** Mapped Superhost density by census tract to contrast urban core vs outskirts, then clustered listings into archetypes (High Success, Luxury, Mid-Range, Economical) to inform location-specific growth strategies.
 
 This end-to-end project demonstrates expertise in data engineering, machine learning, geospatial analysis, and translating insights into actionable business decisions.
+
+# Presentation Deck: 
+
+https://www.canva.com/design/DAGYrbtbuOg/tL19oogV9apXcBgu765SRA/view?utm_content=DAGYrbtbuOg&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
+# Presentation Video:
+
+https://drive.google.com/file/d/1awv-L6q9eYnZMjzTLJvGohOZ7wxZCfFU/view?usp=sharing
